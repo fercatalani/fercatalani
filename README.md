@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Front-End Developer with **5 years in technology** and **4 years focused on React/Next.js**.  
+I’m a Front-End Developer with **6 years in technology** and **5 years focused on React/Next.js**.  
 I have strong experience delivering scalable interfaces, working with **design systems**, **microfrontends**, **accessibility**, and **performance-oriented** development.
 
 ### 💼 Corporate Experience
