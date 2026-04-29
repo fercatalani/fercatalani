@@ -55,6 +55,20 @@ At CI&T, I significantly improved my expertise in:
 ---
 ## 📂 Portfolio
 
+### Eco Planner — Trello Task Manager Agent (Bootcamp Study Project)
+**Repository:** [projeto-trello-dio](https://github.com/fercatalani/trello-agent-dio#)
+
+A Python study project developed during a bootcamp, focused on learning how to build agents with Google ADK and integrate them with external services such as Trello.
+
+This project showcases:
+- Task creation, listing, and status updates through an agent
+- Integration with the Trello API using Python
+- Tool-based workflows using Google ADK
+- Local configuration through environment variables
+
+**Tech stack:** Python, Google ADK, Trello API, py-trello, python-dotenv  
+> This project was created as a learning exercise to explore agent architecture, tool integration, and Python automation. It is intended as a study project rather than a production-ready application.
+
 ### My Store — Product Catalog (Technical Challenge)
 **Live demo:** https://my-store-rust-three.vercel.app/
 
