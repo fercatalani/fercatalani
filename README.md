@@ -17,7 +17,7 @@ At CI&T, I significantly improved my expertise in:
 - **Performance optimization** in React/Next.js
 - Working within **Lean** and **Agile** processes  
 - Collaborating in an international environment with daily English communication
-- Studying AI Engineer on DIO/CI&T bootcamp
+- AI Engineer Certified on DIO/CI&T bootcamp
 
 ---
 
